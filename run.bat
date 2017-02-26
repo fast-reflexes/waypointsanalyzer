@@ -1,0 +1,1 @@
+java -cp .;bin;lib\gson-2.8.0.jar wpchallenge.WaypointAnalyzer waypoints.json
